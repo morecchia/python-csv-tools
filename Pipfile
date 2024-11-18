@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+dask = {extras = ["complete"], version = "*"}
 
 [dev-packages]
 

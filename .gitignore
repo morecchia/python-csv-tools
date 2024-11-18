@@ -163,3 +163,5 @@ cython_debug/
 
 # test data
 test_data/
+.DS_Store
+.vscode/launch.json
